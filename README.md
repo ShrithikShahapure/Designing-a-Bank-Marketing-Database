@@ -7,6 +7,12 @@ I took a csv file called `"bank_marketing.csv"`, which needed to clean, reformat
 After that, I wrote code to populate the Database. 
 
 Note: These datasets were taken from Datacamp.
+
+## Data Model
+
+![data_model](data_model.png)
+
+
 ## client
 
 | column | data type | description | original column in dataset |
