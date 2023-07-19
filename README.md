@@ -5,6 +5,8 @@ I took a csv file called `"bank_marketing.csv"`, which needed to clean, reformat
 
 
 After that, I wrote code to populate the Database. 
+
+Note: These datasets were taken from Datacamp.
 ## client
 
 | column | data type | description | original column in dataset |
